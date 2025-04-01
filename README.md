@@ -14,7 +14,7 @@ ___________________________________________________Conteúdo____________________
 _________________________________________________Como Executar_______________________________________________________________
 
 1. Clone o repositório com o comando
-git clone https://github.com/seuusuario/ImersaoDev_Alura_01.git
+git clone https://github.com/Henrique8v/ImersaoDev_Alura_01.git
 2. Abra o arquivo index.html no navegador para visualizar o projeto (recomendado o Chrome.
 Se usar outros navegadores, dasbilitar bloqueio de popups e propagandas.)
 
